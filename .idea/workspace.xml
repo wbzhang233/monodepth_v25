@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dacddfe2-d2cb-4a58-abf9-553b5796349d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="monodepth2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pS9m5SiCcENlr5dcir0iJzUiNY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/train.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.genFiles">
+    <configuration name="MidBrainAggregation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EagleVision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EagleVision/MidBrainAggregation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="depth_decoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/networks/depth_decoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eagle_depth_decoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/networks/eagle_depth_decoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="export_gt_depth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/export_gt_depth.py" />
+      <option name="PARAMETERS" value="--data_path /media/C2FB-86EB/KITTI/ --split mine_0319" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="genFiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/splits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/splits/genFiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makeSplits" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/splits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/splits/makeSplits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_simple" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_simple.py" />
+      <option name="PARAMETERS" value="--model_dir $PROJECT_DIR$/../tmp/stereo_model/models/ --model_name weights_8 --image_path ./assets/0000000132.png" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="monodepth2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="--model_name stereo_mine_0320 --frame_ids 0 --use_stereo --png --log_dir /media/1417-1859/monodepth2_log_dir/ --save_frequency 4 --data_path /media/C2FB-86EB/KITTI/ --split mine_0319" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_simple" />
+      <item itemvalue="Python.makeSplits" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.MidBrainAggregation" />
+      <item itemvalue="Python.genFiles" />
+      <item itemvalue="Python.export_gt_depth" />
+      <item itemvalue="Python.depth_decoder" />
+      <item itemvalue="Python.eagle_depth_decoder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.genFiles" />
+        <item itemvalue="Python.eagle_depth_decoder" />
+        <item itemvalue="Python.MidBrainAggregation" />
+        <item itemvalue="Python.depth_decoder" />
+        <item itemvalue="Python.export_gt_depth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dacddfe2-d2cb-4a58-abf9-553b5796349d" name="Default Changelist" comment="" />
+      <created>1615165779667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615165779667</updated>
+      <workItem from="1615165781439" duration="2458000" />
+      <workItem from="1615169377847" duration="2447000" />
+      <workItem from="1615317863811" duration="7904000" />
+      <workItem from="1615302497138" duration="974000" />
+      <workItem from="1615305060323" duration="1581000" />
+      <workItem from="1615312745115" duration="2207000" />
+      <workItem from="1615649150787" duration="5317000" />
+      <workItem from="1615659584579" duration="2707000" />
+      <workItem from="1615648660003" duration="7991000" />
+      <workItem from="1615649391749" duration="1180000" />
+      <workItem from="1615649627550" duration="36000" />
+      <workItem from="1615649356265" duration="18171000" />
+      <workItem from="1615659710377" duration="5932000" />
+      <workItem from="1615648934813" duration="3239000" />
+      <workItem from="1615648649898" duration="1767000" />
+      <workItem from="1615649689588" duration="1887000" />
+      <workItem from="1615648777192" duration="19446000" />
+      <workItem from="1616428042995" duration="153000" />
+      <workItem from="1616459360921" duration="2969000" />
+      <workItem from="1616463237465" duration="7828000" />
+      <workItem from="1616487855872" duration="5646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="151" width="800" height="647" key="#Inspections" timestamp="1615659696109">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="425" y="151" width="800" height="647" key="#Inspections/61.24.1539.876@61.24.1539.876" timestamp="1615659696109" />
+    <state x="207" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615651917007">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="207" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/61.24.1539.876@61.24.1539.876" timestamp="1615651917007" />
+    <state x="638" y="265" width="374" height="532" key="#com.intellij.ide.util.MemberChooser" timestamp="1615664111098">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="638" y="265" width="374" height="532" key="#com.intellij.ide.util.MemberChooser/61.24.1539.876@61.24.1539.876" timestamp="1615664111098" />
+    <state x="312" y="247" width="424" height="454" key="FileChooserDialogImpl" timestamp="1615651897616">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="312" y="247" width="424" height="454" key="FileChooserDialogImpl/61.24.1539.876@61.24.1539.876" timestamp="1615651897616" />
+    <state width="1493" height="332" key="GridCell.Tab.0.bottom" timestamp="1616469122063">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.0.bottom/61.24.1539.876@61.24.1539.876" timestamp="1616469122063" />
+    <state width="1493" height="332" key="GridCell.Tab.0.center" timestamp="1616469122061">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.0.center/61.24.1539.876@61.24.1539.876" timestamp="1616469122061" />
+    <state width="1493" height="332" key="GridCell.Tab.0.left" timestamp="1616469122060">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.0.left/61.24.1539.876@61.24.1539.876" timestamp="1616469122060" />
+    <state width="1493" height="332" key="GridCell.Tab.0.right" timestamp="1616469122062">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.0.right/61.24.1539.876@61.24.1539.876" timestamp="1616469122062" />
+    <state width="1493" height="332" key="GridCell.Tab.1.bottom" timestamp="1616469122067">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.bottom/61.24.1539.876@61.24.1539.876" timestamp="1616469122067" />
+    <state width="1493" height="332" key="GridCell.Tab.1.center" timestamp="1616469122065">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.center/61.24.1539.876@61.24.1539.876" timestamp="1616469122065" />
+    <state width="1493" height="332" key="GridCell.Tab.1.left" timestamp="1616469122064">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.left/61.24.1539.876@61.24.1539.876" timestamp="1616469122064" />
+    <state width="1493" height="332" key="GridCell.Tab.1.right" timestamp="1616469122067">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="1493" height="332" key="GridCell.Tab.1.right/61.24.1539.876@61.24.1539.876" timestamp="1616469122067" />
+    <state x="209" y="56" key="SettingsEditor" timestamp="1615659922675">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="209" y="56" key="SettingsEditor/61.24.1539.876@61.24.1539.876" timestamp="1615659922675" />
+    <state width="769" height="438" key="XDebugger.FullValuePopup" timestamp="1616469110072">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state width="769" height="438" key="XDebugger.FullValuePopup/61.24.1539.876@61.24.1539.876" timestamp="1616469110072" />
+    <state x="457" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1616487856356">
+      <screen x="61" y="24" width="1539" height="876" />
+    </state>
+    <state x="457" y="307" key="com.intellij.ide.util.TipDialog/61.24.1539.876@61.24.1539.876" timestamp="1616487856356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/monodepth2$pytest_in_test_simple_py.coverage" NAME="pytest in test_simple.py Coverage Results" MODIFIED="1615651356844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/monodepth2$export_gt_depth.coverage" NAME="export_gt_depth Coverage Results" MODIFIED="1615649282258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/monodepth2$train.coverage" NAME="train Coverage Results" MODIFIED="1615652144600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/monodepth2$depth_decoder.coverage" NAME="depth_decoder Coverage Results" MODIFIED="1615650190071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/monodepth2$genFiles.coverage" NAME="genFiles Coverage Results" MODIFIED="1616469074782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/splits" />
+    <SUITE FILE_PATH="coverage/monodepth2$evaluate_depth.coverage" NAME="evaluate_depth Coverage Results" MODIFIED="1615663945996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/monodepth2$MidBrainAggregation.coverage" NAME="MidBrainAggregation Coverage Results" MODIFIED="1615664007159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EagleVision" />
+    <SUITE FILE_PATH="coverage/monodepth2$npy2vis.coverage" NAME="npy2vis Coverage Results" MODIFIED="1615317995666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/monodepth2$obstacle_detection.coverage" NAME="obstacle_detection Coverage Results" MODIFIED="1615326918758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
